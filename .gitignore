@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+.next/
+.idea/
+.npmrc
+coverage/
+*.log
+.env
+.clinic
+.eslintcache
+dist/
+.env
+product-urls-all-stores.csv
